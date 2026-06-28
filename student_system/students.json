@@ -1,0 +1,353 @@
+{
+  "1001": {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "grades": [
+      88,
+      91,
+      85
+    ]
+  },
+  "1002": {
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "grades": [
+      76,
+      82,
+      79
+    ]
+  },
+  "1003": {
+    "name": "Carol White",
+    "email": "carol.white@example.com",
+    "grades": [
+      95,
+      93,
+      97
+    ]
+  },
+  "1004": {
+    "name": "David Green",
+    "email": "david.green@example.com",
+    "grades": [
+      67,
+      72,
+      70
+    ]
+  },
+  "1005": {
+    "name": "Emma Brown",
+    "email": "emma.brown@example.com",
+    "grades": [
+      89,
+      90,
+      87
+    ]
+  },
+  "1006": {
+    "name": "Frank Wilson",
+    "email": "frank.wilson@example.com",
+    "grades": [
+      58,
+      61,
+      64
+    ]
+  },
+  "1007": {
+    "name": "Grace Miller",
+    "email": "grace.miller@example.com",
+    "grades": [
+      99,
+      96,
+      98
+    ]
+  },
+  "1008": {
+    "name": "Henry Davis",
+    "email": "henry.davis@example.com",
+    "grades": [
+      73,
+      75,
+      71
+    ]
+  },
+  "1009": {
+    "name": "Isabella Moore",
+    "email": "isabella.moore@example.com",
+    "grades": [
+      84,
+      86,
+      88
+    ]
+  },
+  "1010": {
+    "name": "Jack Taylor",
+    "email": "jack.taylor@example.com",
+    "grades": [
+      92,
+      89,
+      94
+    ]
+  },
+  "1011": {
+    "name": "Karen Anderson",
+    "email": "karen.anderson@example.com",
+    "grades": [
+      65,
+      68,
+      70
+    ]
+  },
+  "1012": {
+    "name": "Liam Thomas",
+    "email": "liam.thomas@example.com",
+    "grades": [
+      81,
+      84,
+      83
+    ]
+  },
+  "1013": {
+    "name": "Mia Jackson",
+    "email": "mia.jackson@example.com",
+    "grades": [
+      90,
+      92,
+      91
+    ]
+  },
+  "1014": {
+    "name": "Noah Martin",
+    "email": "noah.martin@example.com",
+    "grades": [
+      77,
+      80,
+      79
+    ]
+  },
+  "1015": {
+    "name": "Olivia Lee",
+    "email": "olivia.lee@example.com",
+    "grades": [
+      94,
+      96,
+      93
+    ]
+  },
+  "1016": {
+    "name": "Peter Harris",
+    "email": "peter.harris@example.com",
+    "grades": [
+      60,
+      63,
+      66
+    ]
+  },
+  "1017": {
+    "name": "Quinn Clark",
+    "email": "quinn.clark@example.com",
+    "grades": [
+      87,
+      85,
+      89
+    ]
+  },
+  "1018": {
+    "name": "Ryan Lewis",
+    "email": "ryan.lewis@example.com",
+    "grades": [
+      78,
+      81,
+      80
+    ]
+  },
+  "1019": {
+    "name": "Sophia Walker",
+    "email": "sophia.walker@example.com",
+    "grades": [
+      98,
+      97,
+      99
+    ]
+  },
+  "1020": {
+    "name": "Thomas Hall",
+    "email": "thomas.hall@example.com",
+    "grades": [
+      69,
+      71,
+      73
+    ]
+  },
+  "1021": {
+    "name": "Uma Allen",
+    "email": "uma.allen@example.com",
+    "grades": [
+      86,
+      88,
+      85
+    ]
+  },
+  "1023": {
+    "name": "William King",
+    "email": "william.king@example.com",
+    "grades": [
+      91,
+      93,
+      92
+    ]
+  },
+  "1024": {
+    "name": "Xenia Wright",
+    "email": "xenia.wright@example.com",
+    "grades": [
+      82,
+      84,
+      81
+    ]
+  },
+  "1025": {
+    "name": "Yara Scott",
+    "email": "yara.scott@example.com",
+    "grades": [
+      96,
+      95,
+      97
+    ]
+  },
+  "1026": {
+    "name": "Zach Baker",
+    "email": "zach.baker@example.com",
+    "grades": [
+      62,
+      64,
+      66
+    ]
+  },
+  "1027": {
+    "name": "Aaron Carter",
+    "email": "aaron.carter@example.com",
+    "grades": [
+      88,
+      87,
+      90
+    ]
+  },
+  "1028": {
+    "name": "Bella Evans",
+    "email": "bella.evans@example.com",
+    "grades": [
+      79,
+      82,
+      81
+    ]
+  },
+  "1029": {
+    "name": "Caleb Perez",
+    "email": "caleb.perez@example.com",
+    "grades": [
+      93,
+      94,
+      92
+    ]
+  },
+  "1030": {
+    "name": "Diana Roberts",
+    "email": "diana.roberts@example.com",
+    "grades": [
+      71,
+      74,
+      72
+    ]
+  },
+  "1031": {
+    "name": "Ethan Turner",
+    "email": "ethan.turner@example.com",
+    "grades": [
+      85,
+      83,
+      86
+    ]
+  },
+  "1032": {
+    "name": "Fiona Phillips",
+    "email": "fiona.phillips@example.com",
+    "grades": [
+      97,
+      98,
+      96
+    ]
+  },
+  "1033": {
+    "name": "George Campbell",
+    "email": "george.campbell@example.com",
+    "grades": [
+      68,
+      70,
+      69
+    ]
+  },
+  "1034": {
+    "name": "Hannah Parker",
+    "email": "hannah.parker@example.com",
+    "grades": [
+      90,
+      89,
+      91
+    ]
+  },
+  "1035": {
+    "name": "Ian Collins",
+    "email": "ian.collins@example.com",
+    "grades": [
+      76,
+      78,
+      77
+    ]
+  },
+  "1036": {
+    "name": "Julia Stewart",
+    "email": "julia.stewart@example.com",
+    "grades": [
+      94,
+      95,
+      93
+    ]
+  },
+  "1037": {
+    "name": "Kevin Sanchez",
+    "email": "kevin.sanchez@example.com",
+    "grades": [
+      72,
+      75,
+      74
+    ]
+  },
+  "1038": {
+    "name": "Laura Morris",
+    "email": "laura.morris@example.com",
+    "grades": [
+      87,
+      89,
+      88
+    ]
+  },
+  "1039": {
+    "name": "Michael Rogers",
+    "email": "michael.rogers@example.com",
+    "grades": [
+      80,
+      82,
+      84
+    ]
+  },
+  "1040": {
+    "name": "Natalie Reed",
+    "email": "natalie.reed@example.com",
+    "grades": [
+      99,
+      98,
+      100
+    ]
+  }
+}
